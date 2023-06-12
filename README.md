@@ -1,4 +1,7 @@
 ### Hi there 👋
+### My name is Sangwoo Han 
+### I am currently testing out different things using this environment
+### I will be more active as I am almost done with my Korean military service
 
 <!--
 **oilcd3/oilcd3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
